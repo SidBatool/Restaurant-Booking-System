@@ -1,2 +1,20 @@
-# Restaurant-Booking-System
-Restaurant Table Booking System using PHP and MySQL is a web-based application. The restaurant Table Booking system project is developed to provide service facilities to restaurants and also to the customer. Customers can reserve the table online and check the status of the reservation.
+How to run the Restaurant Table Booking System (rtbs) Project
+
+1. Download the zip file
+
+2. Extract the file and copy rtbs folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
+
+4.Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Create a database with the name rtbsdb
+
+6. Import rtbsdb.sql file(given inside the zip package in the SQL file folder)
+
+7. Run the script http://localhost/rtbs
+
+Credential for Admin panel :
+
+Username: admin
+Password: Test@123
